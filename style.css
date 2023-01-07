@@ -1,0 +1,95 @@
+body {
+    background-color: #000;
+    font-family: arial;
+    font-size: 16px;
+    color: #fff;
+    padding-bottom: 10px;
+    text-align: left;
+}
+.kop {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.kopje {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+.backcol {
+    display: flex;
+    justify-content: center;
+    border-style: hidden;
+}
+td {
+    padding: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-style: hidden;
+    background-color: #222;
+}
+th {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-style: hidden;
+}
+a {
+    font-weight: normal;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    text-emphasis-color: #faf;
+    background-color: #0f0; 
+}
+a:visited {
+    text-decoration: none;
+    color: #f00;
+}
+.sum {
+    font-weight: normal;
+    padding: 5px;
+}
+span {
+    font-weight: bold;
+}
+span2 {
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+}
+spansum {
+    font-weight: bold;
+    position: relative;
+    top: 85px;
+}
+spanfont {
+    font-size: 14px;
+}
+.form {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+textarea {
+    background-color: #222;
+    color: #fff;
+    border-style: hidden;
+    margin-bottom: 10px;
+}
+input {
+    background-color: #222;
+    color: #fff;
+    border-style: hidden;
+}
+.movie {
+    display: flex;
+    justify-content: center;   
+}
